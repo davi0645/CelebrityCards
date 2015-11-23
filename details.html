@@ -1,0 +1,14 @@
+<main ng-controller="DetailsCtrl">
+
+    <div class="row">
+        <div class="jumbotron">
+            <img src="img/{{item.image}}">
+            <h1>{{item.name}}</h1>
+            <p>"{{item.quote}}"</p>
+            <p>{{item.name}} makes {{item.salary | currency}} a year.  They have an IQ of {{item.iq}}.</p>
+        </div>
+    </div>
+    <div class="row">
+        <a href="#/" class="btn btn-primary btn-lg">Back to List</a>
+    </div>
+</main>

@@ -1,0 +1,10 @@
+<main ng-controller="MainCtrl">
+            
+    <div class="row">
+        <div class="col-xs-6 col-lg-4" ng-repeat="item in allData.items">
+          <h2>{{item.name}}</h2>
+          <img src="img/{{item.image}}">
+          <p><a class="btn btn-default" href="#/details/{{item.id}}" role="button">View details &raquo;</a></p>
+        </div><!--/.col-xs-6.col-lg-4-->
+    </div><!--/row-->
+</main>

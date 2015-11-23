@@ -1,0 +1,26 @@
+{"items":[
+{"id":1, "name":"Brad Paisley", "iq":85, "quote":"As a guitar player, it's harder for me to impress somebody than it is to write a song that they like.", "salary":837465, "image":"brad_paisley.jpg"},
+
+{"id":2, "name":"Chris Brown", "iq":57, "quote":"My mother taught me to treat a lady respectfully.", "salary":2736495, "image":"chris_brown.jpg"},
+    
+{"id":3, "name":"Claire Danes", "iq":89, "quote":"Counterterrorism isn't really about the nunchakus, the guns and gadgets. It's about psychology.", "salary":1927465, "image":"claire_danes.jpg"},
+    
+{"id":4, "name":"Jack Black", "iq":110, "quote":"You must never underestimate the power of the eyebrow.", "salary":982355, "image":"jack_black.jpg"},
+    
+{"id":5, "name":"Jason Schwartzman", "iq":1, "quote":"Logic plus logic equals the illogical. Do you know what I mean?", "salary":384756, "image":"jason_schwartzman.jpg"},
+    
+{"id":6, "name":"Jeff Bridges", "iq":54, "quote":"When you start to engage with your creative processes, it shakes up all your impulses, and they all kind of inform one another.", "salary":283756, "image":"jeff_bridges.jpg"},
+    
+{"id":7, "name":"John Malkovich", "iq":43, "quote":"I wouldn't describe myself as lacking in confidence, but I would just say that - the ghosts you chase you never catch.", "salary":1928475, "image":"john_malkovich.jpg"},
+
+{"id":8, "name":"Mary-Louise Parker", "iq":59, "quote":"Faith to you was more clay than mortar, and if you could interpret the gospel, so could I. So should anyone.", "salary":947382, "image":"mary_louise_parker.jpg"},
+    
+{"id":9, "name":"Nicole Richie", "iq":95, "quote":"I will be really happy once I have done my jail time. I can start fresh.", "salary":203954, "image":"nicole_richie.jpg"},
+    
+{"id":10, "name":"Owen Wilson", "iq":54, "quote":"You can think of Hollywood as high school. TV actors are freshmen, comedy actors are maybe juniors, and dramatic actors - they're the cool seniors.", "salary":489203, "image":"owen_wilson.jpg"},
+    
+{"id":11, "name":"Paul McCartney", "iq":87, "quote":"If slaughterhouses had glass walls, everyone would be a vegetarian.", "salary":691023, "image":"paul_mccartney.jpg"},
+    
+{"id":12, "name":"Zayn Malik", "iq":109, "quote":"Why did the mushroom go to the party? Because he's a fungi!", "salary":1000000, "image":"zayn_malik.jpg"}
+
+]}
